@@ -1,0 +1,9 @@
+C:\Koding\corewithdocker\bin\Debug\netcoreapp1.1\corewithdocker.deps.json
+C:\Koding\corewithdocker\bin\Debug\netcoreapp1.1\corewithdocker.runtimeconfig.json
+C:\Koding\corewithdocker\bin\Debug\netcoreapp1.1\corewithdocker.runtimeconfig.dev.json
+C:\Koding\corewithdocker\bin\Debug\netcoreapp1.1\corewithdocker.dll
+C:\Koding\corewithdocker\bin\Debug\netcoreapp1.1\corewithdocker.pdb
+C:\Koding\corewithdocker\obj\Debug\netcoreapp1.1\corewithdocker.AssemblyInfo.cs
+C:\Koding\corewithdocker\obj\Debug\netcoreapp1.1\corewithdocker.dll
+C:\Koding\corewithdocker\obj\Debug\netcoreapp1.1\corewithdocker.pdb
+C:\Koding\corewithdocker\obj\Debug\netcoreapp1.1\corewithdocker.csprojResolveAssemblyReference.cache
